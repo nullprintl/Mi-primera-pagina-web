@@ -3,6 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const texto = document.getElementById('textoRespuesta');
 
   boton.addEventListener('click', () => {
-    texto.textContent = 'te odio ijadelaberga';
+    texto.textContent = '¡Hola! Este es un mensaje desde JavaScript.';
   });
 });
